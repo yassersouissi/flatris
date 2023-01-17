@@ -9,3 +9,7 @@ yarn-error.log*
 
 .env.js
 .env.prod.js
+.env
+.env.js
+.env.json
+.env-cmdrc
